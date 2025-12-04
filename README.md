@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lyndsay-alt/lyndsay-alt/main/colorfulgradienttechnologylinkedinbanner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/lyndsay-alt/lyndsay-alt/main/colorfulgradienttechnologylinkedinbanner(1).png" width="100%" />
 </p>
 
 

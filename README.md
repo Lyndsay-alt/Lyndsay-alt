@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lyndsay-alt/lyndsay-alt/main/colorfulgradienttechnologylinkedinbanner(1).png" width="100%" />
-</p>
+
 
 
 

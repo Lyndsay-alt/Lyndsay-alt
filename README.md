@@ -1,6 +1,8 @@
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lyndsay-alt/lyndsay-alt/main/banner.png" width="100%" />
+</p>
 
 - 🔭 I’m currently working on **budgeting app**
 

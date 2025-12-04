@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAG6kG3OdOY/msDtFfRUPSckukeyYhf9Cw/view" alt="banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Lyndsay Richards</h1>
 <h3 align="center">A passionate frontend developer from TEXAS</h3>
